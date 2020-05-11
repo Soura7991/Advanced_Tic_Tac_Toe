@@ -1,0 +1,5 @@
+canvas {
+    /*This width makes the canvas responsive*/
+    width: 80vmin;
+    border: 4px solid blue;
+  }
